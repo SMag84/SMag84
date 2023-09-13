@@ -9,7 +9,7 @@
 
 - :seedling: На 2023 год я учусь в 8 классе
 - :zap: Хочу к 18 годам выйти на должную зарплату
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SMag_84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slavayt135@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SMag_84-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SMag_84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slavayt135@gmail.com)
 ---
 ### 🤝 Социальные сети:
   <div id="badges">
